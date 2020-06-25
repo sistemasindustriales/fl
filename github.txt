@@ -1,0 +1,29 @@
+git init
+
+git add .
+
+git commit -m "f00"
+
+
+git config --global user.email "netflixmadryn@gmail.com"
+
+git config --global user.name flixgo
+
+git remote add origin https://github.com/sistemasindustriales/fl.git
+
+
+git checkout master
+
+git checkout gh-pages
+
+git push origin master --force
+-
+git push origin gh-pages --force
+
+git remote set-url origin https://github.com/sistemasindustriales/fl.git
+
+
+https://github.com/flixgo/tv.git
+
+
+https://github.com/sistemasindustriales/flixgo.git
