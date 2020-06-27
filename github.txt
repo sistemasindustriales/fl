@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "f00"
+git commit -m "movie"
 
 
 git config --global user.email "netflixmadryn@gmail.com"
@@ -27,3 +27,6 @@ https://github.com/flixgo/tv.git
 
 
 https://github.com/sistemasindustriales/flixgo.git
+
+
+tt3402236
