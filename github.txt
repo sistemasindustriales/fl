@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "movie"
+git commit -m "version2.0"
 
 
 git config --global user.email "netflixmadryn@gmail.com"
