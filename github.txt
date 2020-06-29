@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "v20"
+git commit -m "2020"
 
 
 git config --global user.email "sistemasindustriales2020@gmail.com"
@@ -30,3 +30,45 @@ https://github.com/sistemasindustriales/flixgo.git
 
 
 git branch master
+centrodemaquinado@hotmail.com
+Maquinado2020
+
+apk se produjo un error durante el analisis del paquete kodular
+
+
+https://pastebin.com/3dqszeEU
+https://pastebin.com/TjY9PFaa
+
+
+
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCLv3YeTmcygQLikM8KzyIMP3_6jrOxwrI",
+    authDomain: "flixgo-7acb2.firebaseapp.com",
+    databaseURL: "https://flixgo-7acb2.firebaseio.com",
+    projectId: "flixgo-7acb2",
+    storageBucket: "flixgo-7acb2.appspot.com",
+    messagingSenderId: "84821209628",
+    appId: "1:84821209628:web:72d509306ed836251125d9",
+    measurementId: "G-CNXXEY41K6"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
+
+http://www.e-droid.net/privacy.php?ida=1105075&idl=en
+(Puedes utilizar esta dirección como Política de privacidad de la app en Google Play)
+
+
+
