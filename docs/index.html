@@ -1,83 +1,41 @@
-﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
     <title>FlixGo</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <meta name="robots" content="index, follow">
-    <meta name="revisit-after" content="">
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sign-in/">
 
-<meta http-equiv="content-language" content="en">
+    <!-- Bootstrap core CSS -->
+    <link href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
-<meta name="description" content="FlixGo">
-<meta name="keywords" content=" ">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <!-- Custom styles for this template -->
+    <link href="https://getbootstrap.com/docs/4.0/examples/sign-in/signin.css" rel="stylesheet">
+  </head>
 
-<meta property="og:description" content="">
-<!--Begin: Stylesheet-->
-<link rel="stylesheet" href="css/theme_1/bootstrap.min.css">
-<link rel="stylesheet" href="css/theme_1/all.css">
-<link rel="stylesheet" href="css/theme_1/style.min.css?v=2.9">
-
-<!--End: Stylesheet-->
-<script src="js/vue.min.js" async type="74ff9a76f0cbbbc0ff54d21a-text/javascript"></script>
+  <body class="text-center">
+    <form class="form-signin">
 
 
 
-
-
-<style>
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}  
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #161416; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #111111; 
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #454345; 
-}
-</style>
-</head>
-<body>
-
-
-
-
-
-
-
-<div id="app">  <div id="wrapper"> <div id="main-wrapper"><div class="container">      </div></div> </div> <div id="modallogin" tabindex="-1" role="dialog" aria-labelledby="modallogintitle" class="modal fade premodal premodal-login show" aria-modal="true" style="padding-right: 17px; display: block;"><div role="document" class="modal-dialog modal-dialog-centered"><div class="modal-content"><div class="tab-content"><div id="modal-tab-login" class="tab-pane active auth-tab"><div class="modal-header"><h5 id="modallogintitle" class="modal-title">Bienvenido!</h5> 
-
-
-</div> <div class="modal-body"><div class="modal-logo mb-3"><img style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(1px 1px 3px #222);" src="https://sistemasindustriales.github.io/fl/docs/img/logo.png" alt="Logo"></div> <form method="post" class="preform"><!----> <div class="form-group"><label for="email" class="prelabel">Email</label> <input type="email" id="email" placeholder="nombre@email.com" required="required" class="form-control"></div> <div class="form-group"><label for="password" class="prelabel">Password</label> <input type="password" id="password" placeholder="Password" required="required" class="form-control"></div> <div class="form-check custom-control custom-checkbox"><div class="float-left"><input name="remember" type="checkbox" id="remember" class="custom-control-input"> <label for="remember" class="custom-control-label">Recordarme</label></div> <div class="float-right"><a href="javascript:void(0)" class="link-highlight text-forgot">Tienes problemas?</a></div> <div class="clearfix"></div></div> <div class="form-group login-btn mt-4"><button class="btn btn-primary btn-block">Ingresar</button> <div id="login-loading" class="loading-relative" style="display: none;"><div class="loading"><div class="span1"></div> <div class="span2"></div> <div class="span3"></div></div></div></div></form></div> <div class="modal-footer text-center">
-                        No tienes una cuenta? <a href="javascript:void(0)" title="Register" class="link-highlight"> Registrarse</a></div></div> <div id="modal-tab-forgot" class="tab-pane fade auth-tab"><div class="modal-header"><h5 id="modallogintitle3" class="modal-title">Reset Password</h5> <button type="button" data-dismiss="modal" aria-label="Close" class="close"><span aria-hidden="true">×</span></button></div> <div class="modal-body"><form method="post" class="preform"><div class="form-group"><label for="forgot-email" class="prelabel">Your Email</label> <input type="email" id="forgot-email" placeholder="name@email.com" required="required" class="form-control"></div> <div class="form-group login-btn mt-4"><button class="btn btn-primary btn-block">Submit</button></div></form></div> <div class="modal-footer text-center"><a title="Sign-in" class="link-highlight"><i class="fa fa-angle-left mr-2"></i>Back
-                            to Login</a></div></div> <div id="modal-tab-register" class="tab-pane fade auth-tab"><div class="modal-header"><h5 id="modallogintitle2" class="modal-title">Create an Account</h5> <button type="button" data-dismiss="modal" aria-label="Close" class="close"><span aria-hidden="true">×</span></button></div> <div class="modal-body"><form method="post" class="preform"><!----> <div class="form-group"><label for="re-username" class="prelabel">Your name</label> <input type="text" id="re-username" placeholder="Name" required="required" class="form-control"></div> <div class="form-group"><label for="re-email" class="prelabel">Email</label> <input type="email" id="re-email" placeholder="nombre@email.com" required="required" class="form-control"></div> <div class="form-group"><label for="re-password" class="prelabel">Contraseña</label> <input type="password" id="re-password" placeholder="Contraseña" required="required" class="form-control"></div> <div class="form-group"><label for="re-confirmpassword" class="prelabel">Confirmar contraseña</label> <input type="password" id="re-confirmpassword" placeholder="Confirm Password" autocomplete="off" required="required" class="form-control"></div> <div class="form-group login-btn mt-4"><button class="btn btn-primary btn-block">Register</button> <div id="register-loading" class="loading-relative" style="display: none;"><div class="loading"><div class="span1"></div> <div class="span2"></div> <div class="span3"></div></div></div></div></form></div> <div class="modal-footer text-center">
-                        Have an account? <a title="Login" class="link-highlight">Login</a></div></div></div></div></div></div></div>
-</div>
-<script type="74ff9a76f0cbbbc0ff54d21a-text/javascript" src="js//jquery.min.js"></script>
-<script type="74ff9a76f0cbbbc0ff54d21a-text/javascript" src="js//popper.min.js" async></script>
-<script type="74ff9a76f0cbbbc0ff54d21a-text/javascript" src="js/bootstrap.min.js" async></script>
-<script type="74ff9a76f0cbbbc0ff54d21a-text/javascript" src="js/lazysizes.min.js" async></script>
-<script type="74ff9a76f0cbbbc0ff54d21a-text/javascript" src="js/app.min.js?v=2.3"></script>
-<script type="74ff9a76f0cbbbc0ff54d21a-text/javascript">
-    $(document).ready(function () {
-        check_favorite();
-        get_episodes();
-        vote_info();
-    });
-</script>
-<script src="js/rocket-loader.min.js" data-cf-settings="74ff9a76f0cbbbc0ff54d21a-|49" defer=""></script>
-
-	</body>
+      <img class="mb-4" style="filter: drop-shadow(rgb(34, 34, 34) 1px 1px 3px);" src="https://sistemasindustriales.github.io/fl/docs/img/logo.png" alt="" >
+      <br><br>
+      <label for="inputEmail" class="sr-only">Email</label>
+      <input type="email" id="inputEmail" class="form-control" placeholder="Email" required autofocus>
+      <label for="inputPassword" class="sr-only">Contraseña</label>
+      <input type="password" id="inputPassword" class="form-control" placeholder="Contraseña" required>
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Recordarme
+        </label>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Ingresar</button>
+      <p class="mt-5 mb-3 text-muted">&copy; FLIXGO 2020</p>
+    </form>
+  </body>
 </html>
