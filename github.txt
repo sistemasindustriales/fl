@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "up"
+git commit -m "up2"
 
 
 git config --global user.email "sistemasindustriales2020@gmail.com"
@@ -40,12 +40,16 @@ https://pastebin.com/3dqszeEU
 https://pastebin.com/TjY9PFaa
 
 
+
+
 alaniz.fabian@gmail.com
 7418296305
 Fi1mwK
 
 
 
+
+https://neodebrid.com/dl/MUDBHSS8L3
 
 
 
