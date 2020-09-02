@@ -1,479 +1,76 @@
-<html lang="en" class="md device-pixel-ratio-1 device-desktop device-windows support-position-sticky"><head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, viewport-fit=cover">
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="default">
-		<meta name="theme-color" content="#2196f3">
-		<meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap:">
-		<title>Silvius</title>
-		<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700%7CMontserrat:400,500,600,700" rel="stylesheet">
-		<link rel="stylesheet" href="https://sistemasindustriales.github.io/fl/docs/book/css/framework7.md.min.css">
-		<link rel="stylesheet" href="https://sistemasindustriales.github.io/fl/docs/book/css/icons.css">
-		<link rel="stylesheet" href="https://sistemasindustriales.github.io/fl/docs/book/css/app.css">
-		<link rel="apple-touch-icon" href="img/f7-icon-square.png">
-		<link rel="icon" href="img/f7-icon.png">
-	</head>
-	<body class="color-theme-blue">
-		<div id="app" class="framework7-root">
-			<div class="statusbar"></div>
-			
-			<div class="view view-main view-init ios-edges" data-url="/">
-				
-			<div class="page no-navbar page-with-toolbar page-previous" aria-hidden="true">
-	<div class="toolbar tabbar tabbar-labels toolbar-bottom-md custom-toolbar">
-		<div class="toolbar-inner">
-			<a href="/" class="tab-link">
-				<i class="material-icons">home</i>
-				<span class="tabbar-label">Home</span>
-			</a>
-			<a href="/home_2/" class="tab-link">
-				<i class="material-icons">note</i>
-				<span class="tabbar-label">Home 2</span>
-			</a>
-			<a href="/books_list/" class="tab-link">
-				<i class="material-icons">book</i>
-				<span class="tabbar-label">Books</span>
-			</a>
-			<a href="/bookshelf/" class="tab-link">
-				<i class="material-icons">bookmark</i>
-				<span class="tabbar-label">Bookshelf</span>
-			</a>
-			<a href="/pages/" class="tab-link">
-				<i class="material-icons">pages</i>
-				<span class="tabbar-label">Pages</span>
-			</a>
-		<span class="tab-link-highlight" style="width: 20%;"></span></div>
-	</div>
-	<div class="page-content">
-		
-		<div class="back-page margin-top margin-bottom padding">
-			<a href="#" class="link back text-color-black">
-				<i class="material-icons">arrow_back</i>
-			</a>
-		</div>
-		
-		<div class="section padding-left padding-right mb book-detail">
-			<div class="section-content">
-				<h1>Harry Potter and the goblet of fire</h1>
-				
-				<div class="book-detail-header display-flex">
-				
-					<div class="book-img">
-						<img src="./img/11.jpg" alt="harry" class="object-fit">
-					</div>
-					
-					<div class="book-infos">
-						<div class="book-author">By J.K. Rowling</div>
-						<div class="book-series">Series Harry Potter</div>
-						<div class="book-rating">
-							<i class="material-icons">star</i>
-							<i class="material-icons">star</i>
-							<i class="material-icons">star</i>
-							<i class="material-icons">star</i>
-							<i class="material-icons">star</i>
-							<span>
-								4.6/5
-							</span>
-						</div>
-						<div class="book-prices">
-							<span class="new-book-price text-color-green">$13.47</span>
-							<span class="old-book-price text-color-red">$17.00</span>
-						</div>
-						<a href="/cart/" class="col button button-fill">Add to cart</a>
-					</div>
-				
-				</div>
+<html lang="en"><head>
+	<title>Super Sprint Karts</title>
+	<meta charset="utf-8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.01, minimal-ui">
+	<style>
+		body {
+			margin: 0px;
+			padding: 0px;
+			width: 100%;
+			background-color:black;
+		}	
 
-			</div>
-		</div>
+		canvas {	
+			-ms-touch-action: none;
+			image-rendering: -o-crisp-edges;           
+			image-rendering: optimize-contrast;        
+			-ms-interpolation-mode: nearest-neighbor;  
+			-webkit-tap-highlight-color: rgba(0,0,0,0);
+			-moz-tap-highlight-color: rgba(0,0,0,0);
+			tap-highlight-color: rgba(0,0,0,0);
+			user-select: none;
+			-webkit-touch-callout: none;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+		} 
 		
-		<div class="section padding-left padding-right mb">
-			<div class="section-title display-flex justify-content-space-between align-items-center">
-				<h2>Synopsis</h2>
-			</div>
-			<div class="section-content">
-				<p>
-					There will be three tasks, spaced throughout the school year, and they will test the champions in many different ways … their magical prowess - their daring - their powers of deduction - and, of course, their ability to cope with danger.
-				</p>
-			</div>
-		</div>
-		
-		<div class="section padding-left padding-right mb">
-			<div class="section-title display-flex justify-content-space-between align-items-center">
-				<h2>Reviews</h2>
-			</div>
-			<div class="section-content">
-				<div class="list media-list review-list no-margin">
-					<ul>
-						<li>
-							<a href="#" class="item-link item-content no-padding">
-								<div class="item-media">
-									<img src="./img/user1.jpg" alt="r1" width="60">
-								</div>
-								<div class="item-inner">
-									<div class="item-title-row">
-										<div class="item-title">John Doe</div>
-										<div class="item-after">
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star_border</i>
-										</div>
-									</div>
-									<div class="item-text">
-										Facer eirmod vix eu, ne ferri quidam vis. Mea idque nulla liberavisse cu Mea idque nulla liberavisse cu
-									</div>
-								</div>
-							</a>
-						</li>
-						
-						<li>
-							<a href="#" class="item-link item-content no-padding">
-								<div class="item-media">
-									<img src="./img/user2.jpg" alt="r2" width="60">
-								</div>
-								<div class="item-inner">
-									<div class="item-title-row">
-										<div class="item-title">John Doe</div>
-										<div class="item-after">
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star_border</i>
-										</div>
-									</div>
-									<div class="item-text">
-										Facer eirmod vix eu, ne ferri quidam vis. Mea idque nulla liberavisse cu Mea idque nulla liberavisse cu
-									</div>
-								</div>
-							</a>
-						</li>
-						
-						<li>
-							<a href="#" class="item-link item-content no-padding">
-								<div class="item-media">
-									<img src="./img/user3.jpg" alt="r3" width="60">
-								</div>
-								<div class="item-inner">
-									<div class="item-title-row">
-										<div class="item-title">John Doe</div>
-										<div class="item-after">
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star</i>
-											<i class="material-icons">star_border</i>
-										</div>
-									</div>
-									<div class="item-text">
-										Facer eirmod vix eu, ne ferri quidam vis. Mea idque nulla liberavisse cu Mea idque nulla liberavisse cu
-									</div>
-								</div>
-							</a>
-						</li>
-						
-					</ul>
-				</div>
-			</div>
-		</div>
-		
-		<div class="section padding-left padding-right mb">
-			<div class="section-title display-flex justify-content-space-between align-items-center">
-				<h2>Similar Books</h2>
-				<a href="/books_list/">View all</a>
-			</div>
-			<div class="section-content">
-				<div class="books-list">
-				
-					<div class="book-list display-flex">
-						<div class="book-img">
-							<img src="./img/8.jpg" alt="list1" class="object-fit">
-						</div>
-						<div class="book-infos">
-							<div class="book-title">
-								<a href="/free_book_single/">Drawing the head and hands</a>
-							</div>
-							<div class="book-author">Andrew Loomis</div>
-							<div class="book-description">
-								Loomis is revered amongst artists including the great painter Norman ...
-							</div>
-						</div>
-					</div>
-					
-					<div class="book-list display-flex">
-						<div class="book-img">
-							<img src="./img/9.jpg" alt="list9" class="object-fit">
-						</div>
-						<div class="book-infos">
-							<div class="book-title">
-								<a href="/free_book_single/">Crazy Rich Asians</a>
-							</div>
-							<div class="book-author">Kevin Kwan</div>
-							<div class="book-description">
-								Crazy Rich Asians is the outrageously funny debut novel about three super-rich ...
-							</div>
-						</div>
-					</div>
-					
-					<div class="book-list display-flex">
-						<div class="book-img">
-							<img src="./img/10.jpg" alt="list10" class="object-fit">
-						</div>
-						<div class="book-infos">
-							<div class="book-title">
-								<a href="/free_book_single/">Wonder</a>
-							</div>
-							<div class="book-author">R J Palacio</div>
-							<div class="book-description">
-								Read the internationally bestselling book before you watch the major movie  ...
-							</div>
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-		
-	</div>
-</div><div class="page no-navbar page-with-toolbar page-current">
-				
-					<div class="toolbar tabbar tabbar-labels toolbar-bottom-md custom-toolbar">
-						<div class="toolbar-inner">
-							<a href="/" class="tab-link tab-link-active">
-								<i class="material-icons">home</i>
-								<span class="tabbar-label">Home</span>
-							</a>
-							<a href="/home_2/" class="tab-link">
-								<i class="material-icons">note</i>
-								<span class="tabbar-label">Home 2</span>
-							</a>
-							<a href="/books_list/" class="tab-link">
-								<i class="material-icons">book</i>
-								<span class="tabbar-label">Books</span>
-							</a>
-							<a href="/bookshelf/" class="tab-link">
-								<i class="material-icons">bookmark</i>
-								<span class="tabbar-label">Bookshelf</span>
-							</a>
-							<a href="/pages/" class="tab-link">
-								<i class="material-icons">pages</i>
-								<span class="tabbar-label">Pages</span>
-							</a>
-						<span class="tab-link-highlight" style="width: 20%; transform: translate3d(0%, 0px, 0px);"></span></div>
-					</div>
-				
-					<div class="page-content">
-						
-						<div class="block">
-							<div class="search-bar">
-								<input type="text" placeholder="Search by title, author or series">
-								<i class="material-icons">search</i>
-								<span class="input-clear-button margin-right"></span>
-							</div>
-						</div>
-						
-						<div class="section padding-left padding-right mb">
-							<div class="section-title display-flex justify-content-space-between align-items-center">
-								<h2 class="">Free Books</h2>
-								<a href="/books_list/">View all</a>
-							</div>
-							<div class="section-content">
-							
-								<div class="books-grid books-grid-slide">
-									
-									<div data-pagination="{&quot;el&quot;: &quot;.swiper-pagination&quot;}" data-space-between="10" data-slides-per-view="2.15" class="swiper-container swiper-init swiper-container-horizontal">
-										<div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
-										
-											<div class="swiper-slide swiper-slide-active" style="width: 864.884px; margin-right: 10px;">
-												<div class="book-grid">
-													<div class="book-img">
-														<img src="./img/1.jpg" alt="1" class="object-fit">
-													</div>
-													<div class="book-infos">
-														<div class="book-title">
-															<a href="/free_book_single/">Maxwell's Demons: Volume 1</a>
-														</div>
-														<div class="book-author">
-															Deniz Camp
-														</div>
-													</div>
-												</div>
-											</div>
-											
-											<div class="swiper-slide swiper-slide-next" style="width: 864.884px; margin-right: 10px;">
-												<div class="book-grid">
-													<div class="book-img">
-														<img src="./img/2.jpg" alt="2" class="object-fit">
-													</div>
-													<div class="book-infos">
-														<div class="book-title">
-															<a href="/free_book_single/">Self-Reliance and Other Essays</a>
-														</div>
-														<div class="book-author">
-															Ralph Waldo
-														</div>
-													</div>
-												</div>
-											</div>
-											
-											<div class="swiper-slide" style="width: 864.884px; margin-right: 10px;">
-												<div class="book-grid">
-													<div class="book-img">
-														<img src="./img/8.jpg" alt="8" class="object-fit">
-													</div>
-													<div class="book-infos">
-														<div class="book-title">
-															<a href="/free_book_single/">Drawing the head and hands</a>
-														</div>
-														<div class="book-author">
-															Andrew Loomis
-														</div>
-													</div>
-												</div>
-											</div>
-											
-											
-										</div>
-									<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-																		
-								</div>
-								
-							</div>
-						</div>
-						
-						<div class="section padding-left padding-right mb">
-							<div class="section-title display-flex justify-content-space-between align-items-center">
-								<h2>Genres</h2>
-								<a href="#">View all</a>
-							</div>
-							<div class="section-content">
-								
-								<div class="genres">
-									<div class="row">
-										<div class="col">
-											<a href="#" class="genre">
-												Romance
-											</a>
-										</div>
-										<div class="col">
-											<a href="#" class="genre">
-												Fantasy
-											</a>
-										</div>
-									</div>
-									
-									<div class="row">
-										<div class="col">
-											<a href="#" class="genre">
-												Short Stories
-											</a>
-										</div>
-										<div class="col">
-											<a href="#" class="genre">
-												Mystery
-											</a>
-										</div>
-									</div>
-									
-									<div class="row">
-										<div class="col">
-											<a href="#" class="genre">
-												Biography
-											</a>
-										</div>
-										<div class="col">
-											<a href="#" class="genre">
-												Historical
-											</a>
-										</div>
-									</div>
-									
-									<div class="row">
-										<div class="col">
-											<a href="#" class="genre">
-												True Story
-											</a>
-										</div>
-										<div class="col">
-											<a href="#" class="genre">
-												Psychology
-											</a>
-										</div>
-									</div>
-									
-								</div>
-								
-								
-							</div>
-						</div>
-						
-						<div class="section padding-left padding-right mb">
-							<div class="section-title display-flex justify-content-space-between align-items-center">
-								<h2>Recommend</h2>
-								<a href="/books_list/">View all</a>
-							</div>
-							<div class="section-content">
-								<div class="books-list">
-								
-									<div class="book-list display-flex">
-										<div class="book-img">
-											<img src="./img/8.jpg" alt="list1" class="object-fit">
-										</div>
-										<div class="book-infos">
-											<div class="book-title">
-												<a href="/free_book_single/">Drawing the head and hands</a>
-											</div>
-											<div class="book-author">Andrew Loomis</div>
-											<div class="book-description">
-												Loomis is revered amongst artists including the great painter Norman ...
-											</div>
-										</div>
-									</div>
-									
-									<div class="book-list display-flex">
-										<div class="book-img">
-											<img src="./img/9.jpg" alt="list9" class="object-fit">
-										</div>
-										<div class="book-infos">
-											<div class="book-title">
-												<a href="/free_book_single/">Crazy Rich Asians</a>
-											</div>
-											<div class="book-author">Kevin Kwan</div>
-											<div class="book-description">
-												Crazy Rich Asians is the outrageously funny debut novel about three super-rich ...
-											</div>
-										</div>
-									</div>
-									
-									<div class="book-list display-flex">
-										<div class="book-img">
-											<img src="./img/10.jpg" alt="list10" class="object-fit">
-										</div>
-										<div class="book-infos">
-											<div class="book-title">
-												<a href="/free_book_single/">Wonder</a>
-											</div>
-											<div class="book-author">R J Palacio</div>
-											<div class="book-description">
-												Read the internationally bestselling book before you watch the major movie  ...
-											</div>
-										</div>
-									</div>
-									
-								</div>
-							</div>
-						</div>
-						
-					</div>
-					
-				</div></div>
-			
-		</div>
-		<script src="https://sistemasindustriales.github.io/fl/docs/book/js/framework7.min.js"></script>
-		<script src="https://sistemasindustriales.github.io/fl/docs/book/js/routes.js"></script>
-		<script src="https://sistemasindustriales.github.io/fl/docs/book/js/app.js"></script>
+		#spilgames-splash-screen{
+            width: 100%;
+            height: 100%;
+			background: url('http://www8.agame.com/mirror/img/Splash_Image_A10.png') top center no-repeat; 
+            position: absolute;
+            z-index: 10000; 
+            background-size: 90%;
+            background-color:#FFF; 
+        }
+        .spilgames-splash-screen-gone{
+            display:none !important;
+        }
 	
+		
+		.spilgames-branding-image-menu{
+			display: block;
+			left: 10px;
+			top: 10px;
+			position: absolute;
+		}
+			
+		.spilgames-branding-image-game{
+			display: block;
+			left: 10px;
+			bottom: 10px;
+			position: absolute;
+		
+		}
+	</style>
+	
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www8.agame.com/mirror/html5/s/super_sprint_kartsV2/viewporter.js"></script>
+	
+<script type="text/javascript" src="http://cdn.gameplayer.io/api/js/game.js"></script><link rel="preload" href="https://adservice.google.com.ar/adsid/integrator.js?domain=www8.agame.com" as="script"><script type="text/javascript" src="https://adservice.google.com.ar/adsid/integrator.js?domain=www8.agame.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www8.agame.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www8.agame.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080301.js" async=""></script><link rel="prefetch" href="https://be46d4fbae0a5b5ce398168e9579a309.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html"><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html"></head>
 
+    
+
+	<body><script src="//www.googletagservices.com/tag/js/gpt.js"></script><div id="spilgames_crosspromotion_banner" style="width: 100%; height: 100%; overflow: hidden; position: absolute; opacity: 0; display: none; z-index: 99999; transition: opacity 0.5s ease 0s; background: rgb(0, 0, 0);"><div id="gptContainer" style="width:300px;height:250px;margin:25px auto;position:relative;box-shadow:0 0 4px 2px rgba(0,0,0,0.5);background:#000;"><div id="banner-content"><div id="div-gpt-ad-1461916237597-0"><div id="google_ads_iframe_/59392726/offportal_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div></div><img id="closebanner" class="spil_crosspromotion_closebtn" style="position:absolute;right:0;top:0px;" src="//files.cdn.spilcloud.com/gameapitest/1448551529_close.png"></div></div> 
+		<div id="spilgames-splash-screen" class="spilgames-splash-screen-gone"></div>
+		<div id="viewporter" style="margin-top: 0px; margin-left: 112.5px;">
+		   <canvas id="canvas" moz-opaque="" width="700" height="400" style="width: 1694px; height: 968px;"></canvas>
+		</div>
+	
+	<script src="http://www8.agame.com/mirror/html5/s/super_sprint_kartsV2/TweenMax.min.js"></script>
+	<script src="http://www8.agame.com/mirror/html5/s/super_sprint_kartsV2/howler.js"></script>
+	<script src="http://www8.agame.com/mirror/html5/s/super_sprint_kartsV2/app.js"></script>
+
+	
 </body></html>
