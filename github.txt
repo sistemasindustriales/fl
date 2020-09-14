@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "seasons p0023"
+git commit -m "seasons p0025"
 
 
 git config --global user.email "sistemasindustriales2020@gmail.com"
@@ -53,7 +53,7 @@ https://neodebrid.com/dl/MUDBHSS8L3
 
 
 
-
+M4qu1n4d0
 
 
 
