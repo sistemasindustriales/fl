@@ -1,201 +1,367 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/m3BteJOJcbEI3pDgrZ1Fguy0ndV.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1988621" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Existe (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 21min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/lMILrn1PH4PvHeHkYUjiJC7zGyW.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2024469" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Non-Stop (Sin escalas) (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration"> 1h 46min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/54HFDOswRfShCr25Tvt7JaLiIaf.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2109248" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Transformers: La era de la extinción (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 45min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1232829" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+21 Jump Street (2012)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2012</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 49min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/1go2A3gdQjaMuHWquybgoJlQRcX.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1650554" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Kick Ass 2 (2013)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2013</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 43min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
+
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2713180" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Fury (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 14min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/s1jwnt0mfZNrYcTlws5nzCaFp5Q.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1855325" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil: Venganza (2012)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2012</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 35min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1899353" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+The Raid (2011)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2011</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 41min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/4N4sipl8T72tNE4earcctQa2Kw2.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0418279" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Transformers (2007)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2007</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 24min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/hDdTUHlxq6AVOsLG6RVeKP6wGM8.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1055369" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Transformers - La venganza de los caídos (2009)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2009</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 29min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/fMqXNNgzTaxalU1ve9KevpELiGe.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1399103" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Transformers: El lado oscuro de la luna (2011)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2011</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 34min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0232500" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Rápido y furioso (2001)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2001</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 46min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/kwBQP61sYt5AI0NBf9CcRtxQmFe.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0322259" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+2 Fast 2 Furious (2003)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2003</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">N1h 47min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/mtRhCiT4hZzaP6c3DJqec1Jjm0i.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1596343" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Fast & Furious 5 (2011)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2011</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 10min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0417741" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Harry Potter y el misterio del príncipe (2009)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2009</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 33min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/eps9siiZKt0WgY51mHuFvtScNzR.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0120804" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil (2002)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2002</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 40min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/3CSQS5AX1FpOOaAv9RBmYGAvGXC.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1220634" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident evil 4: La resurrección (2010)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2010</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 36min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/uFlxhkpHZV6TZsUziH6v0q4G20y.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0318627" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident evil 2: Apocalipsis (2004)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2004</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 34min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/6S1gpO1akWvuLWgw7dpNYMzg3Rs.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0432021" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil 3: Extinción (2007)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2007</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 33min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  

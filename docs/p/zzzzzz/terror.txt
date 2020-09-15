@@ -1,101 +1,191 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/m3BteJOJcbEI3pDgrZ1Fguy0ndV.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1988621" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Existe (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 21min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/kdnermMCBOnVxjDKA0FV1HZueqg.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0099253" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Chucky: El muñeco diabólico 2 (1990)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">1990</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 24min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/s1jwnt0mfZNrYcTlws5nzCaFp5Q.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1855325" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil: Venganza (2012)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2012</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 35min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!----> <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/fh99wVo11U6vbyePjl7EcGabVHs.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0144120" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+La novia de Chucky (1998)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">1998</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 29min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/s4kboGqD2zr0lypLNtuz7LcB6aa.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0103956" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Chucky: El muñeco diabólico 3 (1991)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">1991</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 30min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/7Z67Sdv2jz0bIkKAV7CHK2eE8ws.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2230358" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+La maldición de Chucky (2013)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2013</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 37min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/eps9siiZKt0WgY51mHuFvtScNzR.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0120804" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil (2002)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2002</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 40min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/3CSQS5AX1FpOOaAv9RBmYGAvGXC.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1220634" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident evil 4: La resurrección (2010)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2010</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 36min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/uFlxhkpHZV6TZsUziH6v0q4G20y.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0318627" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident evil 2: Apocalipsis (2004)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2004</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 34min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/6S1gpO1akWvuLWgw7dpNYMzg3Rs.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0432021" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil 3: Extinción (2007)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2007</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 33min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  

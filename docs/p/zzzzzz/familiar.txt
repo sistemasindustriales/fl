@@ -1,7 +1,42 @@
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0417741" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Harry Potter y el misterio del príncipe (2009)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2009</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 33min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
 
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0926084" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Harry Potter y las reliquias de la muerte - Parte 1 (2010)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2010</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 26min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
 
-
-
+<!---->  
 
 
 

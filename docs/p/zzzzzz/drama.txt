@@ -1,7 +1,139 @@
-/w220_and_h330_face/
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/hvdS2CnwgoOXTC94u4QddX7KwoV.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2039393" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+El jugador (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2019</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 51min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
 
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/joxZ4QxkGJ6DXnWbINBalARdg6e.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1600196" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+La entrega (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 46min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
 
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/jnzLr9RVus3h49aXCSIuKXAZkDu.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2910814" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+La señal (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 37min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
 
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2872718" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Nightcrawler (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 57min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2713180" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Fury (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 14min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg"
+class="film-poster-img lazyload">
+<a href="../tt2267998" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Perdida (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 29min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1201607" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2011</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">2h 10min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
 
 
 

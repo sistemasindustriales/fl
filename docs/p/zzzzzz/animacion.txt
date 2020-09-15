@@ -1,102 +1,97 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/31ydTGLSnK6fWf07XlwJpWBr4GL.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1753496" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil: La maldición (2012)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2012</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 40min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
+<!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/1x5OaFOo38JAwR5yXxeuvQg3VWH.jpg"
+class="film-poster-img lazyload">
+<a href="../tt1174954" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Resident Evil: Degeneración (2008)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2008</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 37min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/eNWs7JRyL4Do5bqlz1kACgHPH1H.jpg"
+class="film-poster-img lazyload">
+<a href="../tt3919322" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Scooby Doo y el Franken Monstruo (2014)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">2014</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 14min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/kFDqymFtThCysdUsCywYD8wj7nf.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0120587" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+Antz (1998)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">1998</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration">1h 23min</span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  <!---->
+                                    
+<div class="flw-item">
+<div class="film-poster">
+<img data-src="https://image.tmdb.org/t/p/w220_and_h330_face/nXqhkF0tJ1K2fglVMgimVZd5kMH.jpg"
+class="film-poster-img lazyload">
+<a href="../tt0096438" class="film-poster-ahref flw-item-tip">
+<i class="fa fa-play"></i></a></div>
+<div class="film-detail film-detail-fix">
+<h3 class="film-name">
+¿Quién engañó a Roger Rabbit? (1988)
+</h3>
+<div class="fd-infor">            
+<span class="fdi-item">1988</span>
+<span class="dot"></span>
+<span class="fdi-item fdi-duration"> 1h 44min </span>            
+<span class="float-right fdi-type">HD</span>
+</div></div><div class="clearfix"></div></div>
+
+<!---->  
