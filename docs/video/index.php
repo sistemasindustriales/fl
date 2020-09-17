@@ -45,7 +45,8 @@
 		<div id="myElement"></div> 
 	</div>
 
-	<script src="https://cdn.jwplayer.com/libraries/Nyxj4Bdy.js"></script>
+	<script src="https://ssl.p.jwpcdn.com/player/v/8.13.8/jwplayer.js"></script>
+	<script type="text/javascript">jwplayer.key="cLGMn8T20tGvW+0eXPhq4NNmLB57TrscPjd1IyJF84o=";</script>
 	<script type="text/javascript">
 		jwplayer("myElement").setup({
 			playlist: [{
@@ -55,6 +56,8 @@
 			width: '100%',
 			height: '100%',
 			aspectratio: '16:9',
+      autostart: true,
+      preload: true,
 		});
 	</script>
 

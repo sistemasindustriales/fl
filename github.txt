@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "seasons p0033"
+git commit -m "seasons p0038"
 
 
 git config --global user.email "sistemasindustriales2020@gmail.com"
@@ -33,28 +33,27 @@ git branch master
 centrodemaquinado@hotmail.com
 Maquinado2020
 
+apk se produjo un error durante el analisis del paquete kodular
+
+
+https://pastebin.com/3dqszeEU
+https://pastebin.com/TjY9PFaa
 
 
 
 
-
-<section class="block_area block_area_home section-id-02">
-                    <div class="block_area-header block_area-header-tabs">
-                        <div class="float-left bah-heading mr-4">
-                            <h2 class="cat-heading">Seguir viendo</h2>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div><div class="fd-infor"><span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/netflix.svg" alt=""></span><span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/disney_plus.svg" alt=""></span>
-<span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/apple_tv_plus.svg" alt=""></span>
-<span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/hulu.svg" alt=""></span>
-<span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/amazon_prime.svg" alt=""></span>
-<span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/hbo.svg" alt=""></span>
-<span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/plutotv.svg" alt=""></span><span class="fdi-item"><img width="90" src="https://img.reelgood.com/service-logos/starz.svg" alt=""></span>
-   </div>
+alaniz.fabian@gmail.com
+7418296305
+Fi1mwK
 
 
 
-                     </section>
+
+https://neodebrid.com/dl/MUDBHSS8L3
+
+
+
+M4qu1n4d0
 
 
 

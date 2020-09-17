@@ -1,6 +1,6 @@
 <?php
 $enlace =  $_GET["media"] ;
-$pagina_inicio = file_get_contents('http://www.mediafire.com/file/h2xef6m65vw7t64/1355630.pdf/file');
+$pagina_inicio = file_get_contents('http://www.mediafire.com/file/tl24p80w0xkv4ai/0455944.pdf/file');
 $start = strpos($pagina_inicio, 'http://download');
 $end = strpos($pagina_inicio, "'",$start);
 

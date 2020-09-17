@@ -1,7 +1,11 @@
 dashboard.jwplayer.com
 2019
- 
- 
+
+https://r5---sn-x1x7zn7e.googlevideo.com/videoplayback?expire=1600311363&ei=I7RiX-CxNtf9wgSQxZrYCw&ip=132.255.201.228&id=b8829773771e897d&itag=22&source=picasa_otf&begin=0&requiressl=yes&mh=MI&mm=32&mn=sn-x1x7zn7e&ms=su&mv=m&mvi=5&pl=24&sc=yes&susc=ph&app=fife&eaua=uaqQ3wKarj0&eaer=1&mime=video/mp4&otf=1&otfp=1&dur=0.000&lmt=1581227311549257&mt=1600304063&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,eaua,eaer,mime,otf,otfp,dur,lmt&sig=AOq0QJ8wRQIhANJbCqy74Dsv4jqzNc2I7_OIgjL0x53fesLGsX7dGE-FAiARMSdo5xCCyiSeS6E7u_yIT5G-2T15g0PoWTSvcQSo6g==&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRgIhAKjoRWpFAIV_w0sKoUkh5YM6hryjCEluUxKr05T45yYhAiEAiqs-ZEGMjcgLEyf8WnHdVGrKOEqDlJAuiL6sLjSQXm4=
+
+ <div style="width:100%;height:0px;position:relative;padding-bottom:53.958%;">
+<iframe src="https://streamable.com/e/djqytv?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
 --------------------------------------------------------
 rewaj38897@prowerl.com
  
