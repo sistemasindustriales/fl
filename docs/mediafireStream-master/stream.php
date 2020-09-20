@@ -1,7 +1,7 @@
 <?php
-$enlace =  $_GET["media"] ;
+$enlace =  $_GET["mp4"] ;
 
-$pagina_inicio = file_get_contents('http://www.mediafire.com/file/yaows3axuvxn3g3/4052886-s01e01/file');
+$pagina_inicio = file_get_contents('https://uqload.com/embed-r1ihw4k7j4dp.html');
 $start = strpos($pagina_inicio, 'http://download');
 $end = strpos($pagina_inicio, "'",$start);
 
