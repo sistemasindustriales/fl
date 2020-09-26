@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "seasons p0055"
+git commit -m "seasons p0056"
 
 
 git config --global user.email "sistemasindustriales2020@gmail.com"
@@ -65,7 +65,7 @@ M4qu1n4d0
 
 
 
-
+goat simulator
 
 
 
