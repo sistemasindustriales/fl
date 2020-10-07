@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "seasons p0066"
+git commit -m "seasons p0067"
 
 
 git config --global user.email "sistemasindustriales2020@gmail.com"
