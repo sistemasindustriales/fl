@@ -1,29 +1,55 @@
-﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+﻿<html lang="en" class="">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
-    <title>FlixGo</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Floow - Ve películas y series</title>
+  <script src="https://cdn.jwplayer.com/libraries/eOP9R8gW.js"></script>
+<!-- Add any other renderers you need; see Use Renderers for more information -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.16/build/mediaelementplayer.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700
+
+
+">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300i">
+<style> html, body { overflow-x: hidden; } #container { } .error { color: red; }  a {  word-wrap: break-word;  }   code {  font-size: 0.8em;  } #player2-container .mejs__time-buffering, #player2-container .mejs__time-current, #player2-container .mejs__time-handle, #player2-container .mejs__time-loaded, #player2-container .mejs__time-hovered, #player2-container .mejs__time-marker, #player2-container .mejs__time-total { height: 2px;} #player2-container .mejs__time-total { margin-top: 9px;} #player2-container .mejs__time-handle { left: -5px; width: 12px; height: 12px;
+            border-radius: 50%; background: #ffffff; top: -5px; cursor: pointer;display: block;position: absolute;z-index: 2;border: none;}
+        #player2-container .mejs__time-handle-content {top: 0;left: 0;width: 12px;height: 12px;}
+    </style>
+<style>/* width */
+::-webkit-scrollbar { width: 10px;}  
+::-webkit-scrollbar-track {  background: #161416; }
+::-webkit-scrollbar-thumb { background: #111111; }
+::-webkit-scrollbar-thumb:hover {  background: #454345; }</style>
 <style>
-img[alt*="logo-icon"],
-img[alt*="logo-icon"][style],
-img[src*="logo-icon"],
-img[src*="logo-icon"][style],
-body > div:nth-last-of-type(1)[style]{
-	opacity: 0 !important;
-	pointer-events:none !important;
-	width: 0px !important;
-	height: 0px !important;
-	visibility:hidden !important;
-	display:none !important;
-}
+* {margin:0;}
+.container {position: absolute;top: 0;bottom: 0;width: 100%;height: 0;overflow: hidden;font-size: 0;background-color: #000000;;margin: auto;z-index: -1000;padding-bottom: 55%;}
+.container2 video {position: absolute;top: 0; left: 0;width: 100%;height: 100%;}
 </style>
+</head>
+<body class="container" style="background-color:#000000;">
 
 
-</style>
+
+	<div id="mediaplayer"></div>
+	
+	
+	
+	<script>
+	    jwplayer("mediaplayer").setup({
+		  file: "https://nontongo.win/api-mega/get.php?id=!npMlGaBY!imYQClR22iNq1iU5tBsuAYcHoyodgyp-aWCOeSfmaO8",
+    type: "mp4",
+		  width: "100%",
+		  height: "100%",
+		  stretching: "bestfit",
+		  autostart: true,
+		  
+		});
+	</script>
 
 
-<iframe  frameborder="0" 
-src="https://mega.nz/embed/RMkCSIQL#1j2u5pIjftzaCxmbhWF3KXMFcQNrGPTkQTo5axffYIE!1a" 
-allowfullscreen allow="autoplay;"></iframe>
 
-</html>
+
+
+</body></html>
+
+
