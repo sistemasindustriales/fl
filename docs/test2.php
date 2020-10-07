@@ -1,9 +1,3 @@
-<html>
-
-
-
-
-
 
 
 
@@ -52,4 +46,3 @@ body {
   <script src="http://vjs.zencdn.net/6.2.8/video.js"></script>
   </center>
 </body>
-</html>
