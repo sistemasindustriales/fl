@@ -1,4 +1,10 @@
-﻿<html lang="en" class="">
+﻿
+
+
+
+
+
+<html lang="en" class="">
 <head>
 
 <style>
@@ -16,7 +22,18 @@
     vertical-align: middle;
 }
 
-</style><style>/* width */
+</style>
+    <script>
+
+ function simulateClick(x, y) {
+     jQuery(document.elementFromPoint(x, y)).click();
+ }
+ simulateClick(100, 250);
+ simulateClick(400, 250);
+    </script>
+
+
+<style>/* width */
 ::-webkit-scrollbar { width: 10px;}  
 ::-webkit-scrollbar-track {  background: #161416; }
 ::-webkit-scrollbar-thumb { background: #111111; }
