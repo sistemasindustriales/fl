@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "seasons p0081"
+git commit -m "seasons p0082"
 
 
 git config --global user.email "sistemasindustriales2020@gmail.com"
@@ -30,44 +30,45 @@ https://github.com/sistemasindustriales/flixgo.git
 
 
 git branch master
-centrodemaquinado@hotmail.com
-Maquinado2020
-
-apk se produjo un error durante el analisis del paquete kodular
-
-
-https://pastebin.com/3dqszeEU
-https://pastebin.com/TjY9PFaa
-
-
-https://d130.usercdn.com/d/falvkhyvtnoaj6ajhhjixbaelaecisgtlo6ypfusahjabrk5wazeb2axciposgp3yfrkt425/video.mp4
-
-alaniz.fabian@gmail.com
-7418296305
-Fi1mwK
-
-
-
-
-https://neodebrid.com/dl/MUDBHSS8L3
-
-
-
-M4qu1n4d0
 
 
 
 
 
-maxstream movie, tv and video
+<script data-ad-client="ca-pub-4124591731697232" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4124591731697232"
+     data-ad-slot="2496240630"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 
 
 
-goat simulator
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4124591731697232"
+     data-ad-slot="3794361503"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 
