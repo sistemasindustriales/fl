@@ -640,7 +640,7 @@ body #booked-profile-page .booked-tabs li.active a,
 body #booked-profile-page .booked-tabs li.active a:hover,
 body #booked-profile-page .appt-block .google-cal-button > a:hover,
 #ui-datepicker-div.booked_custom_date_picker .ui-datepicker-header {
-    background: #ff4a52 !important;
+    background: #1d84f2 !important;
 }
 
 body #booked-profile-page input[type=submit].button-primary:hover,
@@ -652,7 +652,7 @@ body table.booked-calendar th,
 body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,
 body #booked-profile-page .booked-profile-header,
 body #booked-profile-page .appt-block .google-cal-button > a:hover {
-    border-color: #ff4a52 !important;
+    border-color: #1d84f2 !important;
 }
 
 body table.booked-calendar tr.days,
@@ -689,7 +689,7 @@ body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover,
 /* Multi-Slot Booking */
 
 {
-    background: #ff4a52;
+    background: #1d84f2;
 }
 
 body #booked-profile-page input[type=submit].button-primary,
@@ -703,7 +703,7 @@ body #booked-profile-page .appt-block .google-cal-button > a,
 body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,
 body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,
 body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover {
-    border-color: #ff4a52;
+    border-color: #1d84f2;
 }
 
 body .booked-modal .bm-window p i.fa,
@@ -711,7 +711,7 @@ body .booked-modal .bm-window a,
 body .booked-appt-list .booked-public-appointment-title,
 body .booked-modal .bm-window p.appointment-title,
 .booked-ms-modal.visible:hover .booked-book-appt {
-    color: #ff4a52;
+    color: #1d84f2;
 }
 
 .booked-appt-list .timeslot.has-title .booked-public-appointment-title {
@@ -895,12 +895,12 @@ body,
 
 a,
 .post_detail.single_post {
-    color: #FF4A52;
+    color: #1d84f2;
 }
 
 .flex-control-paging li a.flex-active {
-    background-color: #FF4A52;
-    border-color: #FF4A52;
+    background-color: #1d84f2;
+    border-color: #1d84f2;
 }
 
 a:hover,
@@ -1185,7 +1185,7 @@ a.tour_image .tour_price,
 .ui-accordion .ui-accordion-header .ui-icon,
 .mobile_menu_wrapper #mobile_menu_close.button,
 .header_cart_wrapper .cart_count {
-    background-color: #FF4A52;
+    background-color: #1d84f2;
 }
 
 .pagination span,
@@ -1195,12 +1195,12 @@ a.tour_image .tour_price,
 .button.ghost:active,
 blockquote:after,
 .woocommerce-MyAccount-navigation ul li.is-active {
-    border-color: #FF4A52;
+    border-color: #1d84f2;
 }
 
 .comment_box:before,
 .comment_box:after {
-    border-top-color: #FF4A52;
+    border-top-color: #1d84f2;
 }
 
 .button.ghost,
@@ -1209,7 +1209,7 @@ blockquote:after,
 .infinite_load_more,
 blockquote:before,
 .woocommerce-MyAccount-navigation ul li.is-active a {
-    color: #FF4A52;
+    color: #1d84f2;
 }
 
 input[type=submit],
@@ -1263,14 +1263,14 @@ a.button,
 .widget_tag_cloud div a:hover,
 .mobile_menu_wrapper #close_mobile_menu,
 .mobile_menu_wrapper #mobile_menu_close.button {
-    border-color: #FF4A52;
+    border-color: #1d84f2;
 }
 
 .frame_top,
 .frame_bottom,
 .frame_left,
 .frame_right {
-    background: #FF4A52;
+    background: #1d84f2;
 }
 
 body.tg_boxed {
@@ -1323,7 +1323,7 @@ html[data-menu=centeralogo] #logo_right_button {
 #gallery_download:hover,
 .view_fullscreen_wrapper a:hover,
 #logo_wrapper .social_wrapper ul li a:hover {
-    color: #FF4A52;
+    color: #1d84f2;
 }
 
 #menu_wrapper div .nav > li.current-menu-item > a,
@@ -1332,7 +1332,7 @@ html[data-menu=centeralogo] #logo_right_button {
 #menu_wrapper div .nav li ul li.current-menu-item a,
 #menu_wrapper div .nav li.current-menu-parent ul li.current-menu-item a,
 #logo_wrapper .social_wrapper ul li a:active {
-    color: #FF4A52;
+    color: #1d84f2;
 }
 
 .top_bar,
@@ -1367,7 +1367,7 @@ html[data-menu=centeralogo] #logo_right_button {
 #menu_wrapper .nav ul li.megamenu ul li ul li a:active,
 #menu_wrapper div .nav li.megamenu ul li ul li a:active,
 #menu_wrapper div .nav li.current-menu-parent ul li.current-menu-item a:hover {
-    color: #FF4A52;
+    color: #1d84f2;
 }
 
 #menu_wrapper .nav ul li ul li a:hover,
@@ -1446,7 +1446,7 @@ html[data-menu=hammenufull] #copyright {
 #sub_menu li a:active,
 .mobile_menu_wrapper .sidebar_wrapper h2.widgettitle,
 .mobile_menu_wrapper .social_wrapper ul li a:hover {
-    color: #FF4A52;
+    color: #1d84f2;
 }
 
 .mobile_menu_wrapper #searchform input[type=text] {
@@ -1632,7 +1632,7 @@ p.price ins span.amount,
 .woocommerce-page #content div.product span.price,
 .woocommerce-page div.product p.price,
 .woocommerce-page div.product span.price {
-    color: #FF4A52;
+    color: #1d84f2;
 }
 
 
@@ -2333,7 +2333,7 @@ body.tg_boxed
 }
 .frame_top, .frame_bottom, .frame_left, .frame_right
 {
-    background: #FF4A52;
+    background: #1d84f2;
 }
 
 
