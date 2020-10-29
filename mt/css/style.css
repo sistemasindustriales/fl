@@ -907,7 +907,7 @@ a:hover,
 a:active,
 .post_info_comment a i,
 {
-    color: #1EC6B6;
+    color: #3fb2f6;
 }
 
 .post_excerpt.post_tag a:hover,
@@ -920,8 +920,8 @@ a.button.white:hover,
 .button.white:hover,
 a.button.white:active,
 .button.white:active {
-    background: #1EC6B6;
-    border-color: #1EC6B6;
+    background: #3fb2f6;
+    border-color: #3fb2f6;
 }
 
 h1,
@@ -1097,19 +1097,19 @@ body:not(.single) .post_wrapper,
 .woocommerce .star-rating span:before,
 .woocommerce-page .star-rating span:before,
 .woocommerce #review_form #respond p.stars a {
-    color: #1EC6B6;
+    color: #3fb2f6;
 }
 
 #toTop,
 .single_tour_users_online_wrapper .single_tour_users_online_icon {
-    background: #1EC6B6;
+    background: #3fb2f6;
 }
 
 .single_tour_attribute_wrapper .tour_label,
 a.tour_image .tour_label,
 .grid.portfolio_type .tour_label,
 .tour_label.sidebar {
-    background: #1EC6B6;
+    background: #3fb2f6;
 }
 
 input[type=text],
@@ -1572,7 +1572,7 @@ h5.widgettitle {
 #page_content_wrapper .inner .sidebar_wrapper a:active:not(.button),
 .page_content_wrapper .inner .sidebar_wrapper a:hover:not(.button),
 .page_content_wrapper .inner .sidebar_wrapper a:active:not(.button) {
-    color: #1EC6B6;
+    color: #3fb2f6;
 }
 
 .footer_bar,
@@ -1601,7 +1601,7 @@ h5.widgettitle {
 #copyright a:hover,
 #footer a:hover,
 .social_wrapper ul li a:hover {
-    color: #1EC6B6;
+    color: #3fb2f6;
 }
 
 .footer_bar_wrapper,

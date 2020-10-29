@@ -961,7 +961,7 @@ html[data-menu=centeralign] body .top_bar.scroll #nav_wrapper
 	right: -4px;
 	font-size: 10px;
 	border-radius: 50px;
-	background: #1EC6B6;
+	background: #3fb2f6;
 	color: #fff;
 	z-index: 2;
 	width: 16px;
@@ -2022,7 +2022,7 @@ body.js_nav.fade .header_style_wrapper
 	-webkit-transition: color 300ms, background-color 300ms, opacity 300ms;
 	z-index: 9;
 	border-radius: 25px;
-	background: #1EC6B6;
+	background: #3fb2f6;
 	color: #fff;
 	display: block;
 }
@@ -4542,8 +4542,8 @@ input[type=submit].black, input[type=button].black, a.button.black, .button.blac
 
 input[type=button]:hover, input[type=submit]:hover, a.button:hover, .button:hover, .button.submit, a.button.white:hover, .button.white:hover, a.button.white:active, .button.white:active
 {
-	border-color: #1EC6B6;
-	background: #1EC6B6;
+	border-color: #3fb2f6;
+	background: #3fb2f6;
 }
 
 a.comment-reply-link
@@ -7819,7 +7819,7 @@ div.wpcf7-mail-sent-ok
 {
 	float: left;
 	width: 50px;
-	background: #1EC6B6;
+	background: #3fb2f6;
 	color: #fff;
 	line-height: 96px;
     font-size: 1.2em;
@@ -8024,7 +8024,7 @@ a.tour_image .tour_label,
 	top: -14px;
 	right: -14px;
 	border-radius: 50px;
-	background: #1EC6B6;
+	background: #3fb2f6;
 	padding: 10px 7px 10px 7px;
 	color: #fff;
 	font-weight: 600;
