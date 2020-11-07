@@ -829,28 +829,6 @@ a{
     transform: scale(1);
 }
 
-.hap-tooltip{
-	position:absolute;
-	text-align:center;
-	z-index:10000;
-	pointer-events:none;
-	display:none;
-	font-size:13px!important;
-	padding:5px 10px !important;
-	white-space:nowrap;
-}
-.hap-art-narrow-light .hap-tooltip{
-	background:#3FBAF3;
-	color:#fff!important;
-	box-shadow: 1px 1px 3px #777;
-}
-.hap-art-narrow-dark .hap-tooltip{
-	background:#db326b;
-	color:#fff!important;
-	box-shadow: 1px 1px 11px #222;
-}
-
-
 .hap-preloader {
 	position:absolute;
 	top:50%;
