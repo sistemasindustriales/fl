@@ -12,8 +12,8 @@ a{
 	position: relative;
 	min-width:320px;
 	max-width:400px;
-	margin: 100px auto;
-    font-family: Helvetica,Arial,sans-serif; 
+	margin: 1px auto;
+    font-family: Arial, Helvetica, sans-serif; 
     display:none;
 }
 .hap-player-outer{
@@ -24,7 +24,7 @@ a{
 	background: #fff;
 }
 .hap-art-narrow-dark .hap-player-outer{
-	background: #1b1b1b;
+	background: url() repeat;
 }
 .hap-wrapper-inner{
 	position: relative;
@@ -69,7 +69,7 @@ a{
 	color:#666;
 }
 .hap-art-narrow-dark .hap-contr-btn svg{
-	color:#777;
+	color:#f6f6f6;
 }
 .hap-btn:hover svg,
 .hap-contr-btn:hover > svg,
@@ -84,7 +84,7 @@ a{
 .hap-art-narrow-dark .hap-btn:hover svg,
 .hap-art-narrow-dark .hap-contr-btn:hover > svg,
 .hap-art-narrow-dark .hap-contr-btn-hover svg{
-	color:#db326b!important;
+	color:#00da5a!important;
 }
 .hap-contr-btn svg{
 	position: absolute;
@@ -128,7 +128,7 @@ a{
 	color:#222;
 }
 .hap-art-narrow-dark .hap-player-artist{
-	color:#777;
+	color:#787070;
 }
 
 .hap-seekbar{
@@ -170,7 +170,7 @@ a{
 	background:#3FBAF3;
 }
 .hap-art-narrow-dark .hap-progress-level{
-	background:#db326b;
+	background:#00da5a;
 }
 .hap-ad-progress-level{
 	background: #ffeb3b!important;
@@ -229,7 +229,7 @@ a{
 }
 .hap-art-narrow-dark .hap-range-handle-a-hit:hover,
 .hap-art-narrow-dark .hap-range-handle-b-hit:hover{
-	border-top-color:#db326b;
+	border-top-color:#00da5a;
 }
 
 .hap-media-time-wrap{
@@ -418,7 +418,7 @@ a{
 	background:#3FBAF3;
 }
 .hap-art-narrow-dark .hap-volume-level{
-	background:#db326b;
+	background:#00da5a;
 }
 
 
@@ -467,7 +467,7 @@ a{
 	background: #3FBAF3!important;
 }
 .hap-art-narrow-dark .hap-playlist-item-selected {
-	background: #db326b!important;
+	background: #00da5a!important;
 }
 .hap-playlist-thumb{
 	position:relative;
@@ -623,7 +623,7 @@ a{
 	color: #3FBAF3;
 }
 .hap-art-narrow-dark .hap-playlist-filter-msg span{
-	color: #db326b;
+	color: #00da5a;
 }
 
 .hap-bottom-bar{
@@ -805,7 +805,7 @@ a{
 }
 .hap-art-narrow-dark .hap-playback-rate-level,
 .hap-art-narrow-dark .hap-playback-rate-drag{
-	background:#db326b;
+	background:#00da5a;
 }
 .hap-playback-rate-drag{
     position: relative;
@@ -844,7 +844,7 @@ a{
 	background-color: #3FBAF3;
 }
 .hap-art-narrow-dark .hap-preloader {
-	background-color: #db326b;
+	background-color: #00da5a;
 }
 @-webkit-keyframes hap_preloader {
     0% { -webkit-transform: perspective(120px) }
@@ -965,7 +965,7 @@ a{
 }
 .hap-art-narrow-light .hap-load-more-btn:hover{
     color: #fff;
-    background: #777;
+    background: #f6f6f6;
 }
 .hap-art-narrow-dark .hap-load-more-btn{
 	color: #ccc;
